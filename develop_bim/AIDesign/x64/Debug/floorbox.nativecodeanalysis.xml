@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>point2f.h</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Point2f::y' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Point2f::{ctor}</FUNCTION>
+    <DECORATED>??0Point2f@@QEAA@XZ</DECORATED>
+    <FUNCLINE>22</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>point2f.h</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Point2f::x' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Point2f::{ctor}</FUNCTION>
+    <DECORATED>??0Point2f@@QEAA@XZ</DECORATED>
+    <FUNCLINE>22</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>floorbox.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'FloorBox::floor_box_type' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>FloorBox::{ctor}</FUNCTION>
+    <DECORATED>??0FloorBox@@QEAA@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>floorbox.cpp</FILENAME>
+      <LINE>79</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Avoid unnamed objects with custom construction and destruction (es.84).</DESCRIPTION>
+    <FUNCTION>FloorBox::LoadBimData</FUNCTION>
+    <DECORATED>?LoadBimData@FloorBox@@QEAAXVValue@Json@@@Z</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>floorbox.cpp</FILENAME>
+      <LINE>128</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Avoid unnamed objects with custom construction and destruction (es.84).</DESCRIPTION>
+    <FUNCTION>FloorBox::LoadBimData</FUNCTION>
+    <DECORATED>?LoadBimData@FloorBox@@QEAAXVValue@Json@@@Z</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>floorbox.cpp</FILENAME>
+      <LINE>165</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Avoid unnamed objects with custom construction and destruction (es.84).</DESCRIPTION>
+    <FUNCTION>FloorBox::LoadBimDataTest</FUNCTION>
+    <DECORATED>?LoadBimDataTest@FloorBox@@QEAAXVValue@Json@@@Z</DECORATED>
+    <FUNCLINE>146</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>floorbox.cpp</FILENAME>
+      <LINE>158</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Avoid unnamed objects with custom construction and destruction (es.84).</DESCRIPTION>
+    <FUNCTION>FloorBox::LoadBimDataTest</FUNCTION>
+    <DECORATED>?LoadBimDataTest@FloorBox@@QEAAXVValue@Json@@@Z</DECORATED>
+    <FUNCLINE>146</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

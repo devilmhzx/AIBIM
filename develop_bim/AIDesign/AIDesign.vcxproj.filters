@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{fb0382de-e238-4a30-a3ba-219afe4d15ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Common">
+      <UniqueIdentifier>{c3341dee-c61a-40f1-a3a7-cca4d6faad40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Houselayout">
+      <UniqueIdentifier>{7d1064f3-f198-477b-bcae-0629e0d1c2a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Design">
+      <UniqueIdentifier>{e6ef5a63-374f-4f02-b4c4-4c83d2ed88a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object3D">
+      <UniqueIdentifier>{c0d492bd-1531-400b-92ff-7efa0a227e29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Common\Private">
+      <UniqueIdentifier>{251d1b39-4958-48d0-b6ce-3b45a724e841}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Common\Public">
+      <UniqueIdentifier>{e33aa2c7-ea5c-48f1-baf7-ed4227a5f25e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Houselayout\Public">
+      <UniqueIdentifier>{39d9330d-615f-4568-a65e-60f28de0a92f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Houselayout\Private">
+      <UniqueIdentifier>{1932fbf5-93f4-4320-863b-c58f6829c1ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Design\Public">
+      <UniqueIdentifier>{24382150-8275-4f6c-b54a-a1d3b6caaa02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Design\Private">
+      <UniqueIdentifier>{b9c270f1-a203-4efd-b3f3-2234b55dbfa3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object3D\Private">
+      <UniqueIdentifier>{b4a490c5-7a81-4d29-9501-e68135fd130d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Object3D\Public">
+      <UniqueIdentifier>{b421e400-7086-45ec-a186-bd6bcf088d5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\AICase">
+      <UniqueIdentifier>{19521c1f-f7df-4b34-b466-06386986afec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\AICase\Public">
+      <UniqueIdentifier>{aed7ca2e-ac73-4b66-ac7f-b37ba1b66b89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\AICase\Private">
+      <UniqueIdentifier>{4c98bb4e-7f28-4922-accd-9f57219b34e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include">
+      <UniqueIdentifier>{8991cfaf-f443-4d8d-8e44-73f55327399e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\json">
+      <UniqueIdentifier>{685c281e-90ee-48ab-bbeb-fce8d4cf713c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lib">
+      <UniqueIdentifier>{3ab609d3-3c57-4e2b-9f1c-6d7ced91c740}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Render">
+      <UniqueIdentifier>{4bd70654-ad86-4d11-85d5-2fe9c6b8d319}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\sqlite3">
+      <UniqueIdentifier>{5cff2854-cfe4-484a-b02d-af82bb112af0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MetisHttpServer">
+      <UniqueIdentifier>{ee702152-9dce-471f-ad65-175b48ba0431}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Log">
+      <UniqueIdentifier>{87dd21d6-97ec-43d8-a9d9-0e6c33930e2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CaseMatch">
+      <UniqueIdentifier>{40bdb31f-1587-466e-9b54-68af23801a0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AICore">
+      <UniqueIdentifier>{e0501ca3-eade-46e1-a0ba-717c43920f95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AICore\Private">
+      <UniqueIdentifier>{fadbd89a-a3fb-4938-a9a6-00545aff8fb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AICore\Public">
+      <UniqueIdentifier>{22ad69e9-8694-411d-86c0-4a89f85f2012}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Line.h">
+      <Filter>Source\Object3D\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Point3f.h">
+      <Filter>Source\Object3D\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Source\Design\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseObject.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="ComMath.h">
+      <Filter>Source\Common\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonSettings.h">
+      <Filter>Source\Common\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Corner.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Door.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Opening.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Room.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Wall.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="ComUtil.h">
+      <Filter>Source\Common\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Houselayout.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Design.h">
+      <Filter>Source\Design\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="AICase.h">
+      <Filter>Source\AICase\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Three\json\forwards.h">
+      <Filter>Include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="Three\json\autolink.h">
+      <Filter>Include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="Three\json\config.h">
+      <Filter>Include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="Three\json\features.h">
+      <Filter>Include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="Three\json\json.h">
+      <Filter>Include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="Three\json\reader.h">
+      <Filter>Include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="Three\json\value.h">
+      <Filter>Include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="Three\json\writer.h">
+      <Filter>Include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="SingleCase.h">
+      <Filter>Source\AICase\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseBox.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="FloorBox.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="WallBox.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Point2f.h">
+      <Filter>Source\Object3D\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Box2D.h">
+      <Filter>Source\Object3D\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitTest.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\CoreType.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\D3D11HRI.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\RenderProxy.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\WinLaunch.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseRegion.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="CeilingRegion.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="FloorRegion.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="WallRegion.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Three\sqlite3\sqlite3.h">
+      <Filter>Include\sqlite3</Filter>
+    </ClInclude>
+    <ClInclude Include="TestData.h" />
+    <ClInclude Include="ComStruct.h">
+      <Filter>Source\Common\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="HttpServer\MetisAllocator.h">
+      <Filter>MetisHttpServer</Filter>
+    </ClInclude>
+    <ClInclude Include="HttpServer\MetisHttpRelpy.h">
+      <Filter>MetisHttpServer</Filter>
+    </ClInclude>
+    <ClInclude Include="HttpServer\MetisHttpServer.h">
+      <Filter>MetisHttpServer</Filter>
+    </ClInclude>
+    <ClInclude Include="HttpServer\MetisJob.h">
+      <Filter>MetisHttpServer</Filter>
+    </ClInclude>
+    <ClInclude Include="HttpServer\MetisThread.h">
+      <Filter>MetisHttpServer</Filter>
+    </ClInclude>
+    <ClInclude Include="Log\easylogging++.h">
+      <Filter>Log</Filter>
+    </ClInclude>
+    <ClInclude Include="CaseMatch\MetisRegionFeature.h">
+      <Filter>CaseMatch</Filter>
+    </ClInclude>
+    <ClInclude Include="CaseMatch\MetisRegionMatcher.h">
+      <Filter>CaseMatch</Filter>
+    </ClInclude>
+    <ClInclude Include="CaseMatch\MetisFeatureMaker.h">
+      <Filter>CaseMatch</Filter>
+    </ClInclude>
+    <ClInclude Include="DatabaseHelper.h">
+      <Filter>Source\Common\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="HttpServer\HttpCommon.h">
+      <Filter>MetisHttpServer</Filter>
+    </ClInclude>
+    <ClInclude Include="dump.h">
+      <Filter>Log</Filter>
+    </ClInclude>
+    <ClInclude Include="AICore\TokenStream.h">
+      <Filter>AICore\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="AICore\Token.h">
+      <Filter>AICore\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="AICore\ToiletAutomaticlDesign.h">
+      <Filter>AICore\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="AICore\MoveLinesEstimator.h">
+      <Filter>AICore\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="AICore\MetisRegionResolver.h">
+      <Filter>AICore\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="AICore\MetisNode.h">
+      <Filter>AICore\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="AICore\MetisGeomancy.h">
+      <Filter>AICore\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="AICore\MetisFormulaContainer.h">
+      <Filter>AICore\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="AICore\MetisDynamicLayout.h">
+      <Filter>AICore\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="AICore\MetisCompleteFeature.h">
+      <Filter>AICore\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="AICore\KitchenAutomaticalDesign.h">
+      <Filter>AICore\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomRegion.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="AICore\MetisCombinedGeneration.h">
+      <Filter>AICore\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinedGeneration.h">
+      <Filter>Source\Design\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="DataTool.h">
+      <Filter>Source\Common\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinedGenerationJ.h">
+      <Filter>Source\Design\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="PackPipeJ.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentObject.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="AirPillarBaseJ.h">
+      <Filter>Source\Houselayout\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Line.cpp">
+      <Filter>Source\Object3D\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Point3f.cpp">
+      <Filter>Source\Object3D\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Source\Design\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseObject.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="ComMath.cpp">
+      <Filter>Source\Common\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Corner.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Door.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Opening.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Room.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Wall.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="ComUtil.cpp">
+      <Filter>Source\Common\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Houselayout.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Design.cpp">
+      <Filter>Source\Design\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="AICase.cpp">
+      <Filter>Source\AICase\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleCase.cpp">
+      <Filter>Source\AICase\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseBox.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="FloorBox.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="WallBox.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Point2f.cpp">
+      <Filter>Source\Object3D\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Box2D.cpp">
+      <Filter>Source\Object3D\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\CoreType.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\D3D11HRI.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\RenderProxy.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\WinLaunch.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseRegion.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="CeilingRegion.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="FloorRegion.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="WallRegion.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="TestData.cpp" />
+    <ClCompile Include="HttpServer\MetisHttpRelpy.cpp">
+      <Filter>MetisHttpServer</Filter>
+    </ClCompile>
+    <ClCompile Include="HttpServer\MetisHttpServer.cpp">
+      <Filter>MetisHttpServer</Filter>
+    </ClCompile>
+    <ClCompile Include="HttpServer\MetisJob.cpp">
+      <Filter>MetisHttpServer</Filter>
+    </ClCompile>
+    <ClCompile Include="HttpServer\MetisThread.cpp">
+      <Filter>MetisHttpServer</Filter>
+    </ClCompile>
+    <ClCompile Include="Log\easylogging++.cpp">
+      <Filter>Log</Filter>
+    </ClCompile>
+    <ClCompile Include="CaseMatch\MetisRegionFeature.cpp">
+      <Filter>CaseMatch</Filter>
+    </ClCompile>
+    <ClCompile Include="CaseMatch\MetisRegionMatcher.cpp">
+      <Filter>CaseMatch</Filter>
+    </ClCompile>
+    <ClCompile Include="CaseMatch\MetisFeatureMaker.cpp">
+      <Filter>CaseMatch</Filter>
+    </ClCompile>
+    <ClCompile Include="DatabaseHelper.cpp">
+      <Filter>Source\Common\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="MainService.cpp" />
+    <ClCompile Include="HttpServer\HttpCommon.cpp">
+      <Filter>MetisHttpServer</Filter>
+    </ClCompile>
+    <ClCompile Include="Log\dump.cpp">
+      <Filter>Log</Filter>
+    </ClCompile>
+    <ClCompile Include="AICore\TokenStream.cpp">
+      <Filter>AICore\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="AICore\Token.cpp">
+      <Filter>AICore\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="AICore\ToiletAutomaticlDesign.cpp">
+      <Filter>AICore\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="AICore\MoveLinesEstimator.cpp">
+      <Filter>AICore\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="AICore\MetisRegionResolver.cpp">
+      <Filter>AICore\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="AICore\MetisNode.cpp">
+      <Filter>AICore\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="AICore\MetisGeomancy.cpp">
+      <Filter>AICore\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="AICore\MetisFormulaContainer.cpp">
+      <Filter>AICore\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="AICore\MetisDynamicLayout.cpp">
+      <Filter>AICore\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="AICore\MetisCompleteFeature.cpp">
+      <Filter>AICore\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="AICore\KitchenAutomaticalDesign.cpp">
+      <Filter>AICore\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomRegion.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="CombinedGeneration.cpp">
+      <Filter>Source\Design\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="DataTool.cpp">
+      <Filter>Source\Common\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="CombinedGenerationJ.cpp">
+      <Filter>Source\Design\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="PackPipeJ.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentObject.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="AirPillarBaseJ.cpp">
+      <Filter>Source\Houselayout\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="lib\json_vc71_libmtd.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="lib\json_vc71_libmt.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="lib\sqlite3.lib">
+      <Filter>lib</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Log\my_log.ini">
+      <Filter>Log</Filter>
+    </None>
+  </ItemGroup>
+</Project>

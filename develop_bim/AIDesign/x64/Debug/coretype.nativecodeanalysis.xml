@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign\render</FILEPATH>
+      <FILENAME>coretype.h</FILENAME>
+      <LINE>51</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'FMetisLayout::Priority' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>FMetisLayout::{ctor}</FUNCTION>
+    <DECORATED>??0FMetisLayout@@QEAA@MMM@Z</DECORATED>
+    <FUNCLINE>51</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign\render</FILEPATH>
+      <FILENAME>coretype.h</FILENAME>
+      <LINE>51</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'FMetisLayout::Type' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>FMetisLayout::{ctor}</FUNCTION>
+    <DECORATED>??0FMetisLayout@@QEAA@MMM@Z</DECORATED>
+    <FUNCLINE>51</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

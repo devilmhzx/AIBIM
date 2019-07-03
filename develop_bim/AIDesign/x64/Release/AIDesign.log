@@ -1,0 +1,15 @@
+﻿  MetisDynamicLayout.cpp
+  MetisJob.cpp
+  正在生成代码...
+sqlite3.lib(sqlite3.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:ICF”规范)
+LINK : warning LNK4098: 默认库“LIBCMTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  0 of 1029 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+json_vc71_libmt.lib(json_value.obj) : warning LNK4099: 未找到 PDB“lib_json.pdb”(使用“json_vc71_libmt.lib(json_value.obj)”或在“D:\AI_dev\develop_bim\x64\Release\lib_json.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+json_vc71_libmt.lib(json_reader.obj) : warning LNK4099: 未找到 PDB“lib_json.pdb”(使用“json_vc71_libmt.lib(json_reader.obj)”或在“D:\AI_dev\develop_bim\x64\Release\lib_json.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+json_vc71_libmt.lib(json_writer.obj) : warning LNK4099: 未找到 PDB“lib_json.pdb”(使用“json_vc71_libmt.lib(json_writer.obj)”或在“D:\AI_dev\develop_bim\x64\Release\lib_json.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+sqlite3.lib(sqlite3.obj) : warning LNK4099: 未找到 PDB“SQlite.pdb”(使用“sqlite3.lib(sqlite3.obj)”或在“D:\AI_dev\develop_bim\x64\Release\SQlite.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  AIDesign.vcxproj -> D:\AI_dev\develop_bim\x64\Release\AIDesign.exe

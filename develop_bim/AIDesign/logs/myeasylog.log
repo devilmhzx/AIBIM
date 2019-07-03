@@ -1,0 +1,421 @@
+2019-03-28 13:54:39,516 INFO [default] db_path is exist
+2019-03-28 13:54:39,516 INFO [default] db_path is exist
+2019-03-28 13:54:39,516 INFO [default] start service......
+2019-03-28 13:54:39,526 ERROR [default] bind scoket error(39.96.35.40:8015)
+2019-03-28 14:01:37,473 INFO [default] db_path is exist
+2019-03-28 14:01:37,473 INFO [default] db_path is exist
+2019-03-28 14:01:37,473 INFO [default] start service......
+2019-03-28 14:01:37,482 ERROR [default] bind scoket error(39.96.35.40:8015)
+2019-03-28 14:14:35,071 INFO [default] db_path is exist
+2019-03-28 14:14:35,073 INFO [default] db_path is exist
+2019-03-28 14:14:35,079 INFO [default] start service......
+2019-03-28 14:14:35,088 INFO [default] start receive task......
+2019-03-28 14:57:00,440 INFO [default] ##########Receive  a auto design
+2019-03-28 14:57:00,440 INFO [default] ##########Receive  a auto design task##########
+2019-03-28 14:57:15,004 INFO [default] db_path is exist
+2019-03-28 14:57:15,006 INFO [default] db_path is exist
+2019-03-28 14:57:15,010 INFO [default] start service......
+2019-03-28 14:57:15,020 INFO [default] start receive task......
+2019-03-28 14:57:51,809 INFO [default] ##########Receive  a auto design task##########
+2019-03-28 14:57:51,905 INFO [default] ##########Begin   layout27E785404C2215E3305D15B04511F823)##########
+2019-03-28 14:57:51,929 INFO [default] ##########End   layout success27E785404C2215E3305D15B04511F823)##########
+2019-03-28 14:58:00,810 INFO [default] ##########Receive  a auto design task##########
+2019-03-28 14:58:01,054 INFO [default] ##########Begin   layoutB0DC768E4369F089CD11C7BB5E7E6DAA)##########
+2019-03-28 14:58:01,084 INFO [default] ##########End   layout successB0DC768E4369F089CD11C7BB5E7E6DAA)##########
+2019-03-29 17:32:58,338 INFO [default] db_path is exist
+2019-03-29 17:32:58,367 INFO [default] db_path is exist
+2019-03-29 17:32:58,432 INFO [default] start service......
+2019-03-29 17:32:58,444 INFO [default] start receive task......
+2019-04-02 16:11:42,260 INFO [default] db_path is exist
+2019-04-02 16:11:42,300 INFO [default] db_path is exist
+2019-04-02 16:11:42,328 INFO [default] start service......
+2019-04-02 16:11:42,348 INFO [default] start receive task......
+2019-04-02 16:16:18,527 INFO [default] ##########Receive  a auto design task##########
+2019-04-02 16:16:19,117 INFO [default] ##########Begin   layout91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-02 16:16:19,407 INFO [default] ##########Receive  a auto design task##########
+2019-04-02 16:16:19,417 INFO [default] ##########Receive  a auto design task##########
+2019-04-02 16:16:19,467 INFO [default] ##########Begin   layout3734DE964CC6F4D733ECA08DD6418FAE)##########
+2019-04-02 16:16:19,477 INFO [default] ##########Begin   layoutFBD355214A4957F5C60ED4ADA7F9F706)##########
+2019-04-02 16:16:20,007 INFO [default] ##########Receive  a auto design task##########
+2019-04-02 16:16:20,057 INFO [default] ##########Begin   layoutEC3564834A5ED665756453AB3E84A602)##########
+2019-04-02 16:16:20,357 INFO [default] ##########End   layout successEC3564834A5ED665756453AB3E84A602)##########
+2019-04-02 16:16:20,647 INFO [default] ##########End   layout successFBD355214A4957F5C60ED4ADA7F9F706)##########
+2019-04-02 16:16:20,967 INFO [default] ##########End   layout success91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-02 16:16:20,967 INFO [default] ##########Receive  a auto design task##########
+2019-04-02 16:16:21,057 INFO [default] ##########Begin   layout6E59267847CF3FB049D730891296AABD)##########
+2019-04-02 16:16:21,677 INFO [default] ##########End   layout success6E59267847CF3FB049D730891296AABD)##########
+2019-04-02 16:19:35,612 INFO [default] ##########Receive  a auto design task##########
+2019-04-02 16:19:35,721 INFO [default] ##########Begin   layout91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-02 16:19:37,521 INFO [default] ##########End   layout success91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-02 16:20:06,930 INFO [default] ##########Receive  a auto design task##########
+2019-04-02 16:20:07,050 INFO [default] ##########Begin   layout91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-02 16:32:31,249 INFO [default] db_path is exist
+2019-04-02 16:32:31,249 INFO [default] db_path is exist
+2019-04-02 16:32:31,249 INFO [default] start service......
+2019-04-02 16:32:31,273 INFO [default] start receive task......
+2019-04-02 16:32:50,615 INFO [default] ##########Receive  a auto design task##########
+2019-04-02 16:32:50,704 INFO [default] ##########Begin   layout91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-02 16:32:52,433 INFO [default] ##########End   layout success91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-02 16:33:20,735 INFO [default] db_path is exist
+2019-04-02 16:33:20,735 INFO [default] db_path is exist
+2019-04-02 16:33:20,735 INFO [default] start service......
+2019-04-02 16:33:20,755 INFO [default] start receive task......
+2019-04-02 16:33:28,376 INFO [default] ##########Receive  a auto design task##########
+2019-04-02 16:33:28,476 INFO [default] ##########Begin   layout91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-02 16:34:06,698 INFO [default] ##########End   layout success91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-02 16:34:18,542 INFO [default] ##########Receive  a auto design task##########
+2019-04-02 16:34:18,672 INFO [default] ##########Begin   layout91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-02 16:34:20,440 INFO [default] ##########End   layout success91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-02 16:35:38,952 INFO [default] db_path is exist
+2019-04-02 16:35:38,954 INFO [default] db_path is exist
+2019-04-02 16:35:38,962 INFO [default] start service......
+2019-04-02 16:35:38,985 INFO [default] start receive task......
+2019-04-02 16:35:41,984 INFO [default] ##########Receive  a auto design task##########
+2019-04-02 16:35:42,124 INFO [default] ##########Begin   layout91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-02 16:35:43,854 INFO [default] ##########End   layout success91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-02 16:37:23,956 INFO [default] db_path is exist
+2019-04-02 16:37:23,958 INFO [default] db_path is exist
+2019-04-02 16:37:23,963 INFO [default] start service......
+2019-04-02 16:37:23,985 INFO [default] start receive task......
+2019-04-02 16:37:36,347 INFO [default] ##########Receive  a auto design task##########
+2019-04-02 16:37:36,477 INFO [default] ##########Begin   layout91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-02 16:37:38,117 INFO [default] ##########End   layout success91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-02 16:38:50,159 INFO [default] ##########Receive  a auto design task##########
+2019-04-02 16:38:50,299 INFO [default] ##########Begin   layout91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-02 16:40:25,880 INFO [default] db_path is exist
+2019-04-02 16:40:25,881 INFO [default] db_path is exist
+2019-04-02 16:40:25,886 INFO [default] start service......
+2019-04-02 16:40:25,904 INFO [default] start receive task......
+2019-04-02 16:40:33,115 INFO [default] ##########Receive  a auto design task##########
+2019-04-02 16:40:33,247 INFO [default] ##########Begin   layout91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-02 16:40:39,917 INFO [default] ##########End   layout success91089C7844E480E32EC9D9B833B78F25)##########
+2019-04-03 17:48:41,750 INFO [default] db_path is exist
+2019-04-08 15:18:17,616 INFO [default] db_path is exist
+2019-04-08 15:18:17,618 INFO [default] db_path is exist
+2019-04-08 15:18:17,624 INFO [default] start service......
+2019-04-08 15:18:17,636 ERROR [default] bind scoket error(39.96.35.40:8015)
+2019-04-15 14:24:27,538 INFO [default] db_path is exist
+2019-04-15 14:24:27,539 INFO [default] db_path is exist
+2019-04-15 14:24:27,544 INFO [default] start service......
+2019-04-15 14:24:27,558 ERROR [default] bind scoket error(39.96.35.40:8015)
+2019-04-15 17:50:25,393 INFO [default] db_path is exist
+2019-04-15 17:50:25,395 INFO [default] db_path is exist
+2019-04-15 17:50:25,399 INFO [default] start service......
+2019-04-15 17:50:25,416 INFO [default] start receive task......
+2019-04-15 17:54:27,493 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 17:54:27,590 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 17:54:35,346 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 17:55:21,581 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 17:55:21,659 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 17:55:22,255 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 17:55:34,403 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 17:55:34,483 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 17:55:35,076 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 17:55:46,217 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 17:57:20,193 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 17:57:20,790 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 17:57:27,637 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 17:59:57,851 INFO [default] db_path is exist
+2019-04-15 17:59:57,852 INFO [default] db_path is exist
+2019-04-15 17:59:57,858 INFO [default] start service......
+2019-04-15 17:59:57,873 INFO [default] start receive task......
+2019-04-15 18:00:05,966 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:00:16,498 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:00:17,132 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:00:29,657 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:00:29,762 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:00:30,357 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:00:59,605 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:02:37,822 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:03:13,706 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:03:24,097 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:03:29,650 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:04:01,038 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:05:25,257 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:05:30,156 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:07:53,150 INFO [default] db_path is exist
+2019-04-15 18:07:53,152 INFO [default] db_path is exist
+2019-04-15 18:07:53,157 INFO [default] start service......
+2019-04-15 18:07:53,172 INFO [default] start receive task......
+2019-04-15 18:08:54,264 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:08:54,341 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:08:54,947 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:09:06,675 INFO [default] db_path is exist
+2019-04-15 18:09:06,676 INFO [default] db_path is exist
+2019-04-15 18:09:06,681 INFO [default] start service......
+2019-04-15 18:09:06,719 INFO [default] start receive task......
+2019-04-15 18:09:20,321 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:09:20,416 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:12:18,463 INFO [default] db_path is exist
+2019-04-15 18:12:18,465 INFO [default] db_path is exist
+2019-04-15 18:12:18,470 INFO [default] start service......
+2019-04-15 18:12:18,483 INFO [default] start receive task......
+2019-04-15 18:12:41,901 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:12:41,976 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:12:47,543 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:20:33,577 INFO [default] db_path is exist
+2019-04-15 18:20:33,578 INFO [default] db_path is exist
+2019-04-15 18:20:33,583 INFO [default] start service......
+2019-04-15 18:20:33,597 INFO [default] start receive task......
+2019-04-15 18:20:43,423 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:20:43,515 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:20:44,050 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:21:39,904 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:21:39,987 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:25:04,720 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:25:59,147 INFO [default] db_path is exist
+2019-04-15 18:25:59,148 INFO [default] db_path is exist
+2019-04-15 18:25:59,153 INFO [default] start service......
+2019-04-15 18:25:59,167 INFO [default] start receive task......
+2019-04-15 18:26:05,102 INFO [default] db_path is exist
+2019-04-15 18:26:05,103 INFO [default] db_path is exist
+2019-04-15 18:26:05,108 INFO [default] start service......
+2019-04-15 18:26:05,121 INFO [default] start receive task......
+2019-04-15 18:26:17,580 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:26:17,655 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:26:18,200 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:29:32,366 INFO [default] db_path is exist
+2019-04-15 18:29:32,368 INFO [default] db_path is exist
+2019-04-15 18:29:32,374 INFO [default] start service......
+2019-04-15 18:29:32,391 INFO [default] start receive task......
+2019-04-15 18:29:35,940 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:29:36,018 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:29:36,567 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:30:34,560 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:30:34,648 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:30:35,139 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:31:04,285 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:31:04,413 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:31:04,915 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:35:25,413 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:35:25,491 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:35:25,982 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:35:45,570 INFO [default] db_path is exist
+2019-04-15 18:35:45,572 INFO [default] db_path is exist
+2019-04-15 18:35:45,578 INFO [default] start service......
+2019-04-15 18:35:45,590 INFO [default] start receive task......
+2019-04-15 18:35:48,412 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:35:48,514 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:35:49,005 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:36:32,711 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:36:32,792 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:42:18,582 INFO [default] db_path is exist
+2019-04-15 18:42:18,584 INFO [default] db_path is exist
+2019-04-15 18:42:18,588 INFO [default] start service......
+2019-04-15 18:42:18,601 INFO [default] start receive task......
+2019-04-15 18:46:41,765 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:46:41,844 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:47:51,317 INFO [default] db_path is exist
+2019-04-15 18:47:51,319 INFO [default] db_path is exist
+2019-04-15 18:47:51,325 INFO [default] start service......
+2019-04-15 18:47:51,347 INFO [default] start receive task......
+2019-04-15 18:48:03,048 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:48:03,157 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:48:03,556 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:48:39,306 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:48:39,385 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:48:39,721 INFO [default] the number of layout count:2
+2019-04-15 18:48:39,721 INFO [default] the number of  rest layout count:1
+2019-04-15 18:48:39,721 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:48:55,362 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:48:55,479 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:48:55,807 INFO [default] the number of layout count:2
+2019-04-15 18:48:55,808 INFO [default] the number of  rest layout count:1
+2019-04-15 18:48:55,809 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:54:52,025 INFO [default] db_path is exist
+2019-04-15 18:54:52,027 INFO [default] db_path is exist
+2019-04-15 18:54:52,033 INFO [default] start service......
+2019-04-15 18:54:52,060 INFO [default] start receive task......
+2019-04-15 18:55:07,808 INFO [default] db_path is exist
+2019-04-15 18:55:07,810 INFO [default] db_path is exist
+2019-04-15 18:55:07,815 INFO [default] start service......
+2019-04-15 18:55:07,829 INFO [default] start receive task......
+2019-04-15 18:55:26,935 INFO [default] db_path is exist
+2019-04-15 18:55:26,936 INFO [default] db_path is exist
+2019-04-15 18:55:26,941 INFO [default] start service......
+2019-04-15 18:55:26,955 INFO [default] start receive task......
+2019-04-15 18:56:42,836 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:56:42,915 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:56:43,257 INFO [default] the number of layout count:2
+2019-04-15 18:56:43,257 INFO [default] the number of  rest layout count:1
+2019-04-15 18:56:43,257 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:56:51,650 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 18:56:51,727 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 18:56:52,061 INFO [default] the number of layout count:2
+2019-04-15 18:56:52,062 INFO [default] the number of  rest layout count:1
+2019-04-15 18:56:52,062 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 19:20:38,662 INFO [default] db_path is exist
+2019-04-15 19:20:38,663 INFO [default] db_path is exist
+2019-04-15 19:20:38,667 INFO [default] start service......
+2019-04-15 19:20:38,682 INFO [default] start receive task......
+2019-04-15 19:22:02,316 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 19:22:02,397 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 19:22:02,841 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 19:22:44,744 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 19:22:44,842 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 19:22:45,166 INFO [default] the number of layout count:2
+2019-04-15 19:22:45,167 INFO [default] the number of  rest layout count:1
+2019-04-15 19:22:45,167 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 19:23:07,852 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 19:23:07,950 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 19:23:08,274 INFO [default] the number of layout count:2
+2019-04-15 19:23:08,275 INFO [default] the number of  rest layout count:1
+2019-04-15 19:23:08,275 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 19:23:40,428 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 19:23:40,527 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 19:23:40,935 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 19:24:40,838 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 19:24:40,936 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 19:24:41,281 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 19:25:05,113 INFO [default] ##########Receive  a auto design task##########
+2019-04-15 19:25:05,212 INFO [default] ##########Begin   layout44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-15 19:25:05,540 INFO [default] ##########End   layout success44FDA30046B2ABA8216B35AE89D012DC)##########
+2019-04-16 17:45:57,844 INFO [default] db_path is exist
+2019-04-16 17:45:57,846 INFO [default] db_path is exist
+2019-04-16 17:45:57,854 INFO [default] start service......
+2019-04-16 17:45:57,870 INFO [default] start receive task......
+2019-04-16 17:53:28,378 INFO [default] ##########Receive  a auto design task##########
+2019-04-16 17:54:52,149 INFO [default] db_path is exist
+2019-04-16 17:54:52,150 INFO [default] db_path is exist
+2019-04-16 17:54:52,156 INFO [default] start service......
+2019-04-16 17:54:52,170 INFO [default] start receive task......
+2019-04-16 17:55:05,480 INFO [default] ##########Receive  a auto design task##########
+2019-04-16 17:55:25,596 INFO [default] ##########Begin   layout3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 17:55:26,952 INFO [default] ##########End   layout success3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 17:58:15,638 INFO [default] db_path is exist
+2019-04-16 17:58:15,639 INFO [default] db_path is exist
+2019-04-16 17:58:15,643 INFO [default] start service......
+2019-04-16 17:58:15,655 INFO [default] start receive task......
+2019-04-16 17:58:30,350 INFO [default] ##########Receive  a auto design task##########
+2019-04-16 17:58:31,147 INFO [default] ##########Begin   layout3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 17:58:31,197 INFO [default] ##########End   layout success3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 17:59:02,939 INFO [default] ##########Receive  a auto design task##########
+2019-04-16 17:59:02,974 INFO [default] ##########Begin   layout3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 17:59:03,007 INFO [default] ##########End   layout success3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 17:59:41,587 INFO [default] ##########Receive  a auto design task##########
+2019-04-16 17:59:41,595 INFO [default] ##########Begin   layout3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 17:59:41,603 INFO [default] the number of layout count:2
+2019-04-16 17:59:41,604 INFO [default] the number of  rest layout count:1
+2019-04-16 17:59:41,604 INFO [default] ##########End   layout success3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 17:59:59,863 INFO [default] ##########Receive  a auto design task##########
+2019-04-16 17:59:59,884 INFO [default] ##########Begin   layout3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 17:59:59,908 INFO [default] ##########End   layout success3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 18:01:28,272 INFO [default] db_path is exist
+2019-04-16 18:01:28,273 INFO [default] db_path is exist
+2019-04-16 18:01:28,279 INFO [default] start service......
+2019-04-16 18:01:28,293 INFO [default] start receive task......
+2019-04-16 18:01:34,118 INFO [default] ##########Receive  a auto design task##########
+2019-04-16 18:01:34,181 INFO [default] ##########Begin   layout3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 18:02:49,242 INFO [default] ##########End   layout success3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 18:17:16,199 INFO [default] db_path is exist
+2019-04-16 18:17:16,201 INFO [default] db_path is exist
+2019-04-16 18:17:16,206 INFO [default] start service......
+2019-04-16 18:17:16,220 INFO [default] start receive task......
+2019-04-16 18:18:15,876 INFO [default] ##########Receive  a auto design task##########
+2019-04-16 18:20:11,363 INFO [default] db_path is exist
+2019-04-16 18:20:11,364 INFO [default] db_path is exist
+2019-04-16 18:20:11,370 INFO [default] start service......
+2019-04-16 18:20:11,387 INFO [default] start receive task......
+2019-04-16 18:20:24,233 INFO [default] ##########Receive  a auto design task##########
+2019-04-16 18:22:43,924 INFO [default] db_path is exist
+2019-04-16 18:22:43,925 INFO [default] db_path is exist
+2019-04-16 18:22:43,931 INFO [default] start service......
+2019-04-16 18:22:43,949 INFO [default] start receive task......
+2019-04-16 18:22:49,805 INFO [default] ##########Receive  a auto design task##########
+2019-04-16 18:24:45,062 INFO [default] ##########Begin   layout3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 18:24:45,457 INFO [default] the number of layout count:2
+2019-04-16 18:24:45,458 INFO [default] the number of  rest layout count:1
+2019-04-16 18:24:45,458 INFO [default] ##########End   layout success3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 18:25:06,761 INFO [default] ##########Receive  a auto design task##########
+2019-04-16 18:25:08,970 INFO [default] ##########Begin   layout3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 18:25:09,375 INFO [default] the number of layout count:2
+2019-04-16 18:25:09,375 INFO [default] the number of  rest layout count:1
+2019-04-16 18:25:09,376 INFO [default] ##########End   layout success3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 18:25:22,823 INFO [default] ##########Receive  a auto design task##########
+2019-04-16 18:25:22,862 INFO [default] ##########Begin   layout3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 18:25:23,260 INFO [default] the number of layout count:2
+2019-04-16 18:25:23,597 INFO [default] the number of  rest layout count:1
+2019-04-16 18:25:23,598 INFO [default] ##########End   layout success3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 18:28:35,693 INFO [default] ##########Receive  a auto design task##########
+2019-04-16 18:28:35,732 INFO [default] ##########Begin   layout3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 18:28:36,133 INFO [default] the number of layout count:2
+2019-04-16 18:28:36,133 INFO [default] the number of  rest layout count:1
+2019-04-16 18:28:36,133 INFO [default] ##########End   layout success3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 18:30:35,855 INFO [default] ##########Receive  a auto design task##########
+2019-04-16 18:30:35,954 INFO [default] ##########Begin   layout3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-16 18:30:37,979 INFO [default] ##########End   layout success3A53B43C4E82B93BD8D6199CA33DFDA7)##########
+2019-04-22 17:36:59,559 INFO [default] db_path is exist
+2019-04-22 17:36:59,561 INFO [default] db_path is exist
+2019-04-22 17:36:59,567 INFO [default] start service......
+2019-04-22 17:36:59,581 ERROR [default] bind scoket error(39.96.35.40:8015)
+2019-04-22 17:46:14,122 INFO [default] db_path is exist
+2019-04-22 17:46:14,123 INFO [default] db_path is exist
+2019-04-22 17:46:14,128 INFO [default] start service......
+2019-04-22 17:46:14,142 ERROR [default] bind scoket error(39.96.35.40:8015)
+2019-04-22 17:46:43,312 INFO [default] db_path is exist
+2019-04-22 17:46:43,313 INFO [default] db_path is exist
+2019-04-22 17:46:43,320 INFO [default] start service......
+2019-04-22 17:46:43,336 ERROR [default] bind scoket error(39.96.35.40:8015)
+2019-04-22 17:47:03,173 INFO [default] db_path is exist
+2019-04-22 17:47:03,175 INFO [default] db_path is exist
+2019-04-22 17:47:03,180 INFO [default] start service......
+2019-04-22 17:47:03,192 INFO [default] start receive task......
+2019-04-22 17:47:07,048 INFO [default] ##########Receive  a auto design task##########
+2019-04-22 17:47:07,136 INFO [default] ##########Begin   layoutF6AC122747DF79D6B6BA4CA7A81EA6ED)##########
+2019-04-22 17:47:43,336 INFO [default] ##########End   layout successF6AC122747DF79D6B6BA4CA7A81EA6ED)##########
+2019-04-22 17:47:51,364 INFO [default] ##########Receive  a auto design task##########
+2019-04-22 17:47:51,438 INFO [default] ##########Begin   layoutF6AC122747DF79D6B6BA4CA7A81EA6ED)##########
+2019-04-22 17:47:55,360 INFO [default] ##########End   layout successF6AC122747DF79D6B6BA4CA7A81EA6ED)##########
+2019-04-22 17:49:00,138 INFO [default] ##########Receive  a auto design task##########
+2019-04-22 17:49:00,210 INFO [default] ##########Begin   layoutF6AC122747DF79D6B6BA4CA7A81EA6ED)##########
+2019-04-22 17:52:08,487 INFO [default] db_path is exist
+2019-04-22 17:52:08,489 INFO [default] db_path is exist
+2019-04-22 17:52:08,493 INFO [default] start service......
+2019-04-22 17:52:08,506 INFO [default] start receive task......
+2019-04-22 17:52:20,848 INFO [default] ##########Receive  a auto design task##########
+2019-04-22 17:52:20,868 INFO [default] ##########Begin   layoutF6AC122747DF79D6B6BA4CA7A81EA6ED)##########
+2019-04-22 17:52:20,908 INFO [default] ##########End   layout successF6AC122747DF79D6B6BA4CA7A81EA6ED)##########
+2019-04-22 17:53:00,793 INFO [default] db_path is exist
+2019-04-22 17:53:00,795 INFO [default] db_path is exist
+2019-04-22 17:53:00,799 INFO [default] start service......
+2019-04-22 17:53:00,812 INFO [default] start receive task......
+2019-04-22 17:53:07,525 INFO [default] ##########Receive  a auto design task##########
+2019-04-22 17:53:07,600 INFO [default] ##########Begin   layoutF6AC122747DF79D6B6BA4CA7A81EA6ED)##########
+2019-04-28 19:18:47,606 INFO [default] db_path is exist
+2019-04-28 19:18:47,609 INFO [default] db_path is exist
+2019-04-28 19:18:47,615 INFO [default] start service......
+2019-04-28 19:18:47,633 INFO [default] start receive task......
+2019-04-29 09:58:37,263 INFO [default] db_path is exist
+2019-04-29 09:58:37,265 INFO [default] db_path is exist
+2019-04-29 09:58:37,268 INFO [default] start service......
+2019-04-29 09:58:37,281 INFO [default] start receive task......
+2019-04-29 10:27:00,645 INFO [default] ##########Receive  a auto design task##########
+2019-04-29 10:27:21,147 INFO [default] ##########Begin   layout26974C9C430F6E9475205F8A493C387A)##########
+2019-04-29 10:28:37,113 INFO [default] the number of layout count:4
+2019-04-29 10:28:37,113 INFO [default] the number of  rest layout count:2
+2019-04-29 10:28:37,114 INFO [default] ##########End   layout success26974C9C430F6E9475205F8A493C387A)##########
+2019-04-29 10:28:54,762 INFO [default] ##########Receive  a auto design task##########
+2019-04-29 10:30:30,765 INFO [default] ##########Begin   layout26974C9C430F6E9475205F8A493C387A)##########
+2019-04-29 10:35:16,705 INFO [default] the number of layout count:4
+2019-04-29 10:35:16,706 INFO [default] the number of  rest layout count:2
+2019-04-29 10:35:16,706 INFO [default] ##########End   layout success26974C9C430F6E9475205F8A493C387A)##########
+2019-04-29 10:35:54,987 INFO [default] ##########Receive  a auto design task##########
+2019-04-29 10:35:57,248 INFO [default] ##########Begin   layout26974C9C430F6E9475205F8A493C387A)##########
+2019-04-29 10:53:02,766 INFO [default] db_path is exist
+2019-04-29 10:53:02,770 INFO [default] db_path is exist
+2019-04-29 10:53:02,775 INFO [default] start service......
+2019-04-29 10:53:02,787 INFO [default] start receive task......
+2019-04-29 10:53:13,065 INFO [default] ##########Receive  a auto design task##########
+2019-04-29 10:53:21,826 INFO [default] ##########Begin   layout26974C9C430F6E9475205F8A493C387A)##########
+2019-04-29 10:53:37,409 INFO [default] the number of layout count:4
+2019-04-29 10:53:37,409 INFO [default] the number of  rest layout count:2
+2019-04-29 10:53:37,409 INFO [default] ##########End   layout success26974C9C430F6E9475205F8A493C387A)##########
+2019-04-29 10:53:54,519 INFO [default] ##########Receive  a auto design task##########
+2019-04-29 10:53:54,650 INFO [default] ##########Begin   layout26974C9C430F6E9475205F8A493C387A)##########
+2019-04-29 10:53:57,009 INFO [default] the number of layout count:4
+2019-04-29 10:53:57,009 INFO [default] the number of  rest layout count:2
+2019-04-29 10:53:57,009 INFO [default] ##########End   layout success26974C9C430F6E9475205F8A493C387A)##########
+2019-05-16 16:14:48,376 INFO [default] db_path is exist
+2019-05-16 16:14:48,379 INFO [default] db_path is exist
+2019-05-16 16:14:48,385 INFO [default] start service......
+2019-05-16 16:14:48,401 INFO [default] start receive task......

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>point2f.h</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Point2f::y' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Point2f::{ctor}</FUNCTION>
+    <DECORATED>??0Point2f@@QEAA@XZ</DECORATED>
+    <FUNCLINE>22</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>point2f.h</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Point2f::x' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Point2f::{ctor}</FUNCTION>
+    <DECORATED>??0Point2f@@QEAA@XZ</DECORATED>
+    <FUNCLINE>22</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>airpillarbasej.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'AirPillarBaseJ::m_property_flag' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>AirPillarBaseJ::{ctor}</FUNCTION>
+    <DECORATED>??0AirPillarBaseJ@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>airpillarbasej.cpp</FILENAME>
+      <LINE>84</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Avoid unnamed objects with custom construction and destruction (es.84).</DESCRIPTION>
+    <FUNCTION>AirPillarBaseJ::LoadBimAirPillar</FUNCTION>
+    <DECORATED>?LoadBimAirPillar@AirPillarBaseJ@@QEAAXVValue@Json@@@Z</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>airpillarbasej.cpp</FILENAME>
+      <LINE>72</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Avoid unnamed objects with custom construction and destruction (es.84).</DESCRIPTION>
+    <FUNCTION>AirPillarBaseJ::LoadBimAirPillar</FUNCTION>
+    <DECORATED>?LoadBimAirPillar@AirPillarBaseJ@@QEAAXVValue@Json@@@Z</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>airpillarbasej.cpp</FILENAME>
+      <LINE>78</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Avoid unnamed objects with custom construction and destruction (es.84).</DESCRIPTION>
+    <FUNCTION>AirPillarBaseJ::LoadBimAirPillar</FUNCTION>
+    <DECORATED>?LoadBimAirPillar@AirPillarBaseJ@@QEAAXVValue@Json@@@Z</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>airpillarbasej.cpp</FILENAME>
+      <LINE>59</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Avoid unnamed objects with custom construction and destruction (es.84).</DESCRIPTION>
+    <FUNCTION>AirPillarBaseJ::LoadBimAirPillar</FUNCTION>
+    <DECORATED>?LoadBimAirPillar@AirPillarBaseJ@@QEAAXVValue@Json@@@Z</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>airpillarbasej.cpp</FILENAME>
+      <LINE>66</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Avoid unnamed objects with custom construction and destruction (es.84).</DESCRIPTION>
+    <FUNCTION>AirPillarBaseJ::LoadBimAirPillar</FUNCTION>
+    <DECORATED>?LoadBimAirPillar@AirPillarBaseJ@@QEAAXVValue@Json@@@Z</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>airpillarbasej.cpp</FILENAME>
+      <LINE>113</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>26444</DEFECTCODE>
+    <DESCRIPTION>Avoid unnamed objects with custom construction and destruction (es.84).</DESCRIPTION>
+    <FUNCTION>AirPillarBaseJ::GetNewFloorBox</FUNCTION>
+    <DECORATED>?GetNewFloorBox@AirPillarBaseJ@@QEAA?AVFloorBox@@AEAV1@@Z</DECORATED>
+    <FUNCLINE>95</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

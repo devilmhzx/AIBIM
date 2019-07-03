@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>point2f.h</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Point2f::y' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Point2f::{ctor}</FUNCTION>
+    <DECORATED>??0Point2f@@QEAA@XZ</DECORATED>
+    <FUNCLINE>22</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>point2f.h</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Point2f::x' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Point2f::{ctor}</FUNCTION>
+    <DECORATED>??0Point2f@@QEAA@XZ</DECORATED>
+    <FUNCLINE>22</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>packpipej.h</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'PackPipeJ::length' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>PackPipeJ::{ctor}</FUNCTION>
+    <DECORATED>??0PackPipeJ@@QEAA@XZ</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>packpipej.h</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'PackPipeJ::height' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>PackPipeJ::{ctor}</FUNCTION>
+    <DECORATED>??0PackPipeJ@@QEAA@XZ</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>packpipej.h</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'PackPipeJ::m_property_flag' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>PackPipeJ::{ctor}</FUNCTION>
+    <DECORATED>??0PackPipeJ@@QEAA@XZ</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign\casematch</FILEPATH>
+      <FILENAME>metisregionmatcher.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'MetisRegionMatcher::m_granularity' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>MetisRegionMatcher::{ctor}</FUNCTION>
+    <DECORATED>??0MetisRegionMatcher@@QEAA@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign\casematch</FILEPATH>
+      <FILENAME>metisregionmatcher.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'MetisRegionMatcher::m_similarity' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>MetisRegionMatcher::{ctor}</FUNCTION>
+    <DECORATED>??0MetisRegionMatcher@@QEAA@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign\casematch</FILEPATH>
+      <FILENAME>metisregionmatcher.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'MetisRegionMatcher::m_region_weight' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>MetisRegionMatcher::{ctor}</FUNCTION>
+    <DECORATED>??0MetisRegionMatcher@@QEAA@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign\casematch</FILEPATH>
+      <FILENAME>metisregionmatcher.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'MetisRegionMatcher::m_win_weight' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>MetisRegionMatcher::{ctor}</FUNCTION>
+    <DECORATED>??0MetisRegionMatcher@@QEAA@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign\casematch</FILEPATH>
+      <FILENAME>metisregionmatcher.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'MetisRegionMatcher::m_door_weight' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>MetisRegionMatcher::{ctor}</FUNCTION>
+    <DECORATED>??0MetisRegionMatcher@@QEAA@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\ai_dev\develop_bim\aidesign</FILEPATH>
+      <FILENAME>databasehelper.h</FILENAME>
+      <LINE>29</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'SampleRoom::room_type' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>SampleRoom::{ctor}</FUNCTION>
+    <DECORATED>??0SampleRoom@@QEAA@XZ</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

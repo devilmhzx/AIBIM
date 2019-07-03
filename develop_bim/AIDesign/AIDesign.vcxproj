@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{B1BB79DE-83B6-445A-9524-B566EDF3BFFA}</ProjectGuid>
+    <RootNamespace>AIDesign</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LibraryPath>D:\AI_dev\develop_bim\AIDesign\HttpServer\lib\debug;$(VC_LibraryPath_x64);$(WindowsSDK_LibraryPath_x64);$(NETFXKitsDir)Lib\um\x64；;D:\AI_dev\develop_bim\AIDesign\lib</LibraryPath>
+    <IncludePath>D:\AI_dev\develop_bim\AIDesign\Log;D:\AI_dev\develop_bim\AIDesign\Three\json;D:\AI_dev\develop_bim\AIDesign\Three\sqlite3;D:\AI_dev\develop_bim\AIDesign\HttpServer\include;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <IncludePath>D:\AI_dev\develop_bim\AIDesign\Three\json;D:\AI_dev\develop_bim\AIDesign\Three\sqlite3;D:\AI_dev\develop_bim\AIDesign\HttpServer\include;D:\AI_dev\develop_bim\AIDesign\Three\pthread;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\AI_dev\develop_bim\AIDesign\lib;D:\AI_dev\develop_bim\AIDesign\HttpServer\lib\release;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ProgramDataBaseFileName>(OutDir)(OutDir)(TargetName).pdb</ProgramDataBaseFileName>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>json_vc71_libmtd.lib;sqlite3.lib;libevent_core.lib;libevent_extras.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Console</SubSystem>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <LargeAddressAware>true</LargeAddressAware>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <AdditionalIncludeDirectories>D:\workspace\AI_MID\trunk\AIDesign\Three\json;D:\workspace\AI_MID\trunk\AIDesign\Three\sqlite3;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <WholeProgramOptimization>false</WholeProgramOptimization>
+      <ExceptionHandling>Sync</ExceptionHandling>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>json_vc71_libmt.lib;sqlite3.lib;libevent_core.lib;libevent_extras.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="AICase.h" />
+    <ClInclude Include="AICore\KitchenAutomaticalDesign.h" />
+    <ClInclude Include="AICore\MetisCombinedGeneration.h" />
+    <ClInclude Include="AICore\MetisCompleteFeature.h" />
+    <ClInclude Include="AICore\MetisDynamicLayout.h" />
+    <ClInclude Include="AICore\MetisFormulaContainer.h" />
+    <ClInclude Include="AICore\MetisGeomancy.h" />
+    <ClInclude Include="AICore\MetisNode.h" />
+    <ClInclude Include="AICore\MetisRegionResolver.h" />
+    <ClInclude Include="AICore\MoveLinesEstimator.h" />
+    <ClInclude Include="AICore\ToiletAutomaticlDesign.h" />
+    <ClInclude Include="AICore\Token.h" />
+    <ClInclude Include="AICore\TokenStream.h" />
+    <ClInclude Include="BaseBox.h" />
+    <ClInclude Include="BaseObject.h" />
+    <ClInclude Include="BaseRegion.h" />
+    <ClInclude Include="AirPillarBaseJ.h" />
+    <ClInclude Include="Box2D.h" />
+    <ClInclude Include="CaseMatch\MetisFeatureMaker.h" />
+    <ClInclude Include="CaseMatch\MetisRegionFeature.h" />
+    <ClInclude Include="CaseMatch\MetisRegionMatcher.h" />
+    <ClInclude Include="CeilingRegion.h" />
+    <ClInclude Include="CombinedGeneration.h" />
+    <ClInclude Include="CombinedGenerationJ.h" />
+    <ClInclude Include="ComMath.h" />
+    <ClInclude Include="CommonSettings.h" />
+    <ClInclude Include="ComponentObject.h" />
+    <ClInclude Include="ComStruct.h" />
+    <ClInclude Include="ComUtil.h" />
+    <ClInclude Include="Corner.h" />
+    <ClInclude Include="DatabaseHelper.h" />
+    <ClInclude Include="DataTool.h" />
+    <ClInclude Include="Design.h" />
+    <ClInclude Include="Door.h" />
+    <ClInclude Include="dump.h" />
+    <ClInclude Include="FloorBox.h" />
+    <ClInclude Include="FloorRegion.h" />
+    <ClInclude Include="Houselayout.h" />
+    <ClInclude Include="HttpServer\HttpCommon.h" />
+    <ClInclude Include="HttpServer\MetisAllocator.h" />
+    <ClInclude Include="HttpServer\MetisHttpRelpy.h" />
+    <ClInclude Include="HttpServer\MetisHttpServer.h" />
+    <ClInclude Include="HttpServer\MetisJob.h" />
+    <ClInclude Include="HttpServer\MetisThread.h" />
+    <ClInclude Include="Line.h" />
+    <ClInclude Include="Log\easylogging++.h" />
+    <ClInclude Include="Model.h" />
+    <ClInclude Include="Opening.h" />
+    <ClInclude Include="PackPipeJ.h" />
+    <ClInclude Include="Point2f.h" />
+    <ClInclude Include="Point3f.h" />
+    <ClInclude Include="Render\CoreType.h" />
+    <ClInclude Include="Render\D3D11HRI.h" />
+    <ClInclude Include="Render\RenderProxy.h" />
+    <ClInclude Include="Render\WinLaunch.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="Room.h" />
+    <ClInclude Include="RoomRegion.h" />
+    <ClInclude Include="SingleCase.h" />
+    <ClInclude Include="TestData.h" />
+    <ClInclude Include="Three\json\autolink.h" />
+    <ClInclude Include="Three\json\config.h" />
+    <ClInclude Include="Three\json\features.h" />
+    <ClInclude Include="Three\json\forwards.h" />
+    <ClInclude Include="Three\json\json.h" />
+    <ClInclude Include="Three\json\reader.h" />
+    <ClInclude Include="Three\json\value.h" />
+    <ClInclude Include="Three\json\writer.h" />
+    <ClInclude Include="Three\sqlite3\sqlite3.h" />
+    <ClInclude Include="UnitTest.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClInclude>
+    <ClInclude Include="Wall.h" />
+    <ClInclude Include="WallBox.h" />
+    <ClInclude Include="WallRegion.h" />
+    <ClInclude Include="Window.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AICase.cpp" />
+    <ClCompile Include="AICore\KitchenAutomaticalDesign.cpp" />
+    <ClCompile Include="AICore\MetisCompleteFeature.cpp" />
+    <ClCompile Include="AICore\MetisDynamicLayout.cpp" />
+    <ClCompile Include="AICore\MetisFormulaContainer.cpp" />
+    <ClCompile Include="AICore\MetisGeomancy.cpp" />
+    <ClCompile Include="AICore\MetisNode.cpp" />
+    <ClCompile Include="AICore\MetisRegionResolver.cpp" />
+    <ClCompile Include="AICore\MoveLinesEstimator.cpp" />
+    <ClCompile Include="AICore\ToiletAutomaticlDesign.cpp" />
+    <ClCompile Include="AICore\Token.cpp" />
+    <ClCompile Include="AICore\TokenStream.cpp" />
+    <ClCompile Include="BaseBox.cpp" />
+    <ClCompile Include="BaseObject.cpp" />
+    <ClCompile Include="BaseRegion.cpp" />
+    <ClCompile Include="AirPillarBaseJ.cpp" />
+    <ClCompile Include="Box2D.cpp" />
+    <ClCompile Include="CaseMatch\MetisFeatureMaker.cpp" />
+    <ClCompile Include="CaseMatch\MetisRegionFeature.cpp" />
+    <ClCompile Include="CaseMatch\MetisRegionMatcher.cpp" />
+    <ClCompile Include="CeilingRegion.cpp" />
+    <ClCompile Include="CombinedGeneration.cpp" />
+    <ClCompile Include="CombinedGenerationJ.cpp" />
+    <ClCompile Include="ComMath.cpp" />
+    <ClCompile Include="ComponentObject.cpp" />
+    <ClCompile Include="ComUtil.cpp" />
+    <ClCompile Include="Corner.cpp" />
+    <ClCompile Include="DatabaseHelper.cpp" />
+    <ClCompile Include="DataTool.cpp" />
+    <ClCompile Include="Design.cpp" />
+    <ClCompile Include="Door.cpp" />
+    <ClCompile Include="FloorBox.cpp" />
+    <ClCompile Include="FloorRegion.cpp" />
+    <ClCompile Include="Houselayout.cpp" />
+    <ClCompile Include="HttpServer\HttpCommon.cpp" />
+    <ClCompile Include="HttpServer\MetisHttpRelpy.cpp" />
+    <ClCompile Include="HttpServer\MetisHttpServer.cpp" />
+    <ClCompile Include="HttpServer\MetisJob.cpp" />
+    <ClCompile Include="HttpServer\MetisThread.cpp" />
+    <ClCompile Include="Line.cpp" />
+    <ClCompile Include="Log\dump.cpp" />
+    <ClCompile Include="Log\easylogging++.cpp" />
+    <ClCompile Include="MainService.cpp" />
+    <ClCompile Include="Model.cpp" />
+    <ClCompile Include="Opening.cpp" />
+    <ClCompile Include="PackPipeJ.cpp" />
+    <ClCompile Include="Point2f.cpp" />
+    <ClCompile Include="Point3f.cpp" />
+    <ClCompile Include="Render\CoreType.cpp" />
+    <ClCompile Include="Render\D3D11HRI.cpp" />
+    <ClCompile Include="Render\RenderProxy.cpp" />
+    <ClCompile Include="Render\WinLaunch.cpp" />
+    <ClCompile Include="Room.cpp" />
+    <ClCompile Include="RoomRegion.cpp" />
+    <ClCompile Include="SingleCase.cpp" />
+    <ClCompile Include="Test.cpp" />
+    <ClCompile Include="TestData.cpp" />
+    <ClCompile Include="Wall.cpp" />
+    <ClCompile Include="WallBox.cpp" />
+    <ClCompile Include="WallRegion.cpp" />
+    <ClCompile Include="Window.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="lib\json_vc71_libmt.lib" />
+    <Library Include="lib\json_vc71_libmtd.lib" />
+    <Library Include="lib\sqlite3.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Log\my_log.ini" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets" />
+</Project>

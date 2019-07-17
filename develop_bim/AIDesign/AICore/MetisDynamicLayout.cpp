@@ -27,7 +27,7 @@ void MetisDynamicLayout::CalculateIndependentExcellentRegion(shared_ptr<MetisReg
 		region_resolver->independent_furniture_all_rule_weight[furntiure.id] = single_furniture_weight_data;
 		single_furniture_weight_data.clear();
 	}
-
+	int a = 0;
 	/** 计算独立性家具的布局 */
 	CalculateIndependentFurnitureSingleRule(region_resolver);
 }
